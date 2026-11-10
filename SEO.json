@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "retail-pos-management-system",
+  "description": "Retail POS Management System — Retail Laravel Filament ERP/SaaS for Bangladesh (Dhaka). Multi-counter retail POS with barcode, promotions, multi-branch stock, and daily closing. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "retail",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/retail-pos-management-system"
+}
